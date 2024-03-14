@@ -1,0 +1,93 @@
+---
+
+marp:  true
+theme: gaia
+class:
+  - lead
+  - invert
+
+# Lead + invert
+
+---
+<!-- class: lead gaia -->
+
+# 3D Printing
+
+---
+# What is 3D printing?
+Three-dimensional (3D) printing is an additive manufacturing process that creates a physical object from a digital design. The process works by laying down thin layers of material in the form of liquid or powdered plastic, metal or cement, and then fusing the layers together. - Investopedia 
+
+---
+
+![centerheight:100](https://mma.prnewswire.com/media/1609256/Logo.jpg?p=publish)
+
+There are many companies who make 3D printers. The 3D printer I have is a Ender 3 V2 from Creality.
+
+--- 
+
+# This ->
+
+![bg right height:1000](https://static.wixstatic.com/media/87ccc0_a0341638f6eb4c91992cdf150ed082ee~mv2.png/v1/fill/w_480,h_480,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/87ccc0_a0341638f6eb4c91992cdf150ed082ee~mv2.png)
+
+---
+
+# Competitiors
+Here are some other companies that make 3D printers.
+
+---
+
+![bg vertical width:500 ](https://3dprint.com/wp-content/uploads/2016/11/download-37.png)
+![bg width:800](https://www.additive-x.com/shop/pub/media/wysiwyg/bambu_new_new_new_logo.png)
+![bg width:800](https://c-3d.niceshops.com/upload/image/sidebarlogo/original/default/13475_aad779d9.jpg)
+
+---
+
+# Why do I like it? 
+
+---
+
+![bg right](https://i.imgur.com/J90Cycu.png)
+Lets say you found a 3D object or design online, like this octopus, and want it in 4D. With a 3d printer, that can be a reality. For example, lets take a look at this octopus model I found online. 
+
+---
+
+# After downloading the model, you have to import it to a slicer which transforms the digital model into printing instructions, called G-code. Then you download that G-code into a micro sd card, which then is inserted into the 3D printer for printing. 
+
+---
+
+# Once you hit print, this happens
+
+[time lapse of me printing the octopus](https://imgur.com/a/qQZslrT)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Press link to see the video.
+
+---
+
+# Wow! you now have a once virtual object in reality.
+
+---
+
+# Fun Facts about 3D Printing
+
+---
+
+# Virtually anything can be 3D Printed
+
+From jewellery to car engines to entire houses to even edibles like pizza and pasta, you name it and it can be 3D printed.
+
+---
+# 3D Printing is older than Internet
+
+Sir Tim Berners Lee invented the World Wide Web in 1989 and The first printer to create three-dimensional objects appeared in 1983, just a year after the first CD. It was invented by Chuck Hull, an employee of a small business that made durable acrylic tabletop coatings using UV lamps. 
+
+---
+
+# 3D Printing is changing Healthcare
+
+3D Printing is already being actively deployed by doctors and healthcare professionals all over the world for innovative applications. It is used to make casts, prostheses, implants, surgical instruments and even organ models for training and preparation for complex operations.
+
+
+
+---
+Thanks for reading my lengthy n̶o̶v̶e̶l̶ presentation!
+
