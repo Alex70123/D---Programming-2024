@@ -1,3 +1,7 @@
+# mid unit activety
+# Author: Alex
+# 11 April 2024
+
 import random
 
 def generate_number(min_num, max_num):
