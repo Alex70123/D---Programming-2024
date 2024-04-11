@@ -41,3 +41,4 @@ def pyramid(base_width: int):
 pyramid(1)
 pyramid(5)
 pyramid(20)
+

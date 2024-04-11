@@ -35,3 +35,8 @@ for item in grocery_list:
 # use a for loop to count to 100
 for i in range(100):
     print(i + 1)
+
+# Ask the user if they want ice cream
+
+# If they dont answer yes or no
+# Repeat the question
